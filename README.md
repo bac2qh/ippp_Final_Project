@@ -68,8 +68,6 @@ Final_Project_Nov27.ipynb is ready for regression.
 
 #### Di 11/28 1:08
 
+#### Bin 11/28  10:00
+
 # Thanks
-
-
-## Bin 11/28  10:00
-# Thank you
