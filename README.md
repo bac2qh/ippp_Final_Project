@@ -69,8 +69,9 @@ IUCR codes
 https://data.cityofchicago.org/Public-Safety/Chicago-Police-Department-Illinois-Uniform-Crime-R/c7ck-438e
 
 
-# Plz Check out the final project Jupyter Notebook,
-# I think I have the two dataset merged by community area number.
-# Let me know your thoughts
+Xin 11/27 22:56
+
+I was able to make the api work.
+Check out the Final Project.ipynb for details
 
 Thanks
