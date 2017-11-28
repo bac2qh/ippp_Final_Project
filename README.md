@@ -61,4 +61,11 @@ https://data.cityofchicago.org/Public-Safety/Chicago-Police-Department-Illinois-
 I was able to make the api work.
 Check out the Final Project.ipynb for details
 
+#### Xin 11/27 22:56
+
+Final_Project_Nov27.ipynb is ready for regression. 
+(the average level of crime vs the average level of socioeconomic indicators in 2008-2012)
+
+#### Di 11/28 1:08
+
 # Thanks
