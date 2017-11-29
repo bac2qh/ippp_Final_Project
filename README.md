@@ -63,14 +63,16 @@ Check out the Final Project.ipynb for details
 
 #### Xin 11/27 22:56
 
-Final_Project_Nov27.ipynb is ready for regression. 
+Final_Project_Nov27.ipynb is ready for regression.
 (the average level of crime vs the average level of socioeconomic indicators in 2008-2012)
 
 #### Di 11/28 1:08
 
 #### Bin 11/28  10:00
 
-Created two dataframes: crime_total and crime_type. 
+#### Di 11/28 11:46
+
+Created two dataframes: crime_total and crime_type.
 crime_total can be used for regression. (NaN not dropped)
 crime_type still has a merging problem. (NaN not dropped)
 
@@ -78,6 +80,13 @@ Started a detailed analysis on crime: see Crime_Only_Analysis.
 
 Plan to revise the graph and plot the map for crime, and conduct a similar analysis on socioeconomics data.
 
-#### Di 11/28 11:46
+#### Xin 11/28 01:31
+
+Dropped NaN (use inplace = True).
+merged dataframe for crime_type_reg.
+Binbin you should be able to start doing whatever you want at this point.
+
+I will also start looking at geopandas right now. 
+
 
 # Thanks
