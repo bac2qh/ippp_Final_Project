@@ -73,6 +73,6 @@ Final_Project_Nov27.ipynb is ready for regression.
 Created two dataframe: crime_total and crime_type. 
 Attention: problem with dropping NaN remains unsolved!!!!
 
-#### Di 11/28 1:08
+#### Di 11/28 11:46
 
 # Thanks
