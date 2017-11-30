@@ -86,7 +86,16 @@ Dropped NaN (use inplace = True).
 merged dataframe for crime_type_reg.
 Binbin you should be able to start doing whatever you want at this point.
 
-I will also start looking at geopandas right now. 
+I will also start looking at geopandas right now.
+
+#### Xin 11/29 22:28
+
+The plotting works are in Crime_Type_plot.ipynb.
+Currently working on plotting primary_types in different community_area
+
+#### Xin 11/29 23:10
+Got the interactive map for total crime rate.
+will be working on primary_types tomorrow.
 
 
 # Thanks
