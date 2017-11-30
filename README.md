@@ -1,6 +1,12 @@
 # So this is our final project's repo
 # ENJOY
 
+#### Di 11/30 1:06
+
+Finished the analysis on crime, please see Crime_Only_Analysis and the related graphs. 
+Started the work with webpage. 
+Plan to start the regression tomorrow. 
+
 #### Xin 11/29 23:16
 
 About the new file system.
@@ -18,7 +24,6 @@ will be working on primary_types tomorrow.
 The plotting works are in Crime_Type_plot.ipynb.
 Currently working on plotting primary_types in different community_area
 
-
 #### Xin 11/28 01:31
 
 Dropped NaN (use inplace = True).
@@ -27,11 +32,19 @@ Binbin you should be able to start doing whatever you want at this point.
 
 I will also start looking at geopandas right now.
 
+#### Di 11/28 01:24
+
+Started a detailed analysis on crime data (both total rate and type). 
+Plan to finish by tomorrow and start building the webpage. 
+
+Solved a merging problem with crime_type_data. 
+
 #### Di 11/28 1:08
 
-Created two dataframes: crime_total and crime_type.
-crime_total can be used for regression. (NaN not dropped)
-crime_type still has a merging problem. (NaN not dropped)
+Created two dataframes: crime_total (to look at the crime rate per year for each community) and crime_type (to study on the ocurrences of different types of crime).
+
+Updated crime_total: can be used for regression. (attention: NaN not dropped)
+Updated crime_type: still has a merging problem. (attention: NaN not dropped)
 
 Started a detailed analysis on crime: see Crime_Only_Analysis.
 
@@ -39,7 +52,9 @@ Plan to revise the graph and plot the map for crime, and conduct a similar analy
 
 #### Bin 11/28  10:00
 
-Final_Project_Nov27.ipynb is ready for regression.
+#### Di 11/27  23:00
+
+Merged data sets into Final_Project_Nov27.ipynb, which is ready for regression.
 (the average level of crime vs the average level of socioeconomic indicators in 2008-2012)
 
 #### Xin 11/27 22:56
@@ -102,3 +117,5 @@ So plz download the whole 1.5 GB data for now.
 We plan to join the two dataset by "community_area number"
 and here is a link for community_area code's in Chicago
 https://en.wikipedia.org/wiki/Community_areas_in_Chicago
+
+# CHEERS
