@@ -7,6 +7,8 @@ Finished the analysis on crime, please see Crime_Only_Analysis and the related g
 Started the work with webpage. 
 Plan to start the regression tomorrow. 
 
+NOTE: Graph for total crime rate remains to be revised.
+
 #### Xin 11/29 23:16
 
 About the new file system.
