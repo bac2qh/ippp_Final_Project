@@ -1,9 +1,17 @@
 # So this is our final project's repo
 # ENJOY
+# Important
+## Crime_Rate now is renamed as No_Crime, plz change accordingly
+## plz put your output in the output folder.
+Surprisingly, that's why we have it at the first place
+
+#### Xin 12/1 3:27
+
+Finished Stat analysis on crime_total
 
 #### Di 11/30 17:56
 
-Finished statistical analysis on crime_type. 
+Finished statistical analysis on crime_type.
 
 #### Xin 11/30 19:49
 
