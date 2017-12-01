@@ -3,6 +3,12 @@
 
 #### Di 11/30 5:56
 
+Created 'webpage' folder to store related files.
+
+Uploaded the work I've done so far. 
+
+#### Di 11/30 5:56
+
 Refined the analysis on crime: DONE! 
 
 First try: started regression analysis on different socioeconomic indicators and crime rate, completed two reg models and several graphs. 
