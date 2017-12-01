@@ -1,6 +1,10 @@
 # So this is our final project's repo
 # ENJOY
 
+#### Di 11/30 17:56
+
+Finished statistical analysis on crime_type. 
+
 #### Xin 11/30 19:49
 
 Maps part all figured out. Start working on stats. New maps upon request.  
