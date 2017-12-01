@@ -1,25 +1,30 @@
 # So this is our final project's repo
 # ENJOY
 
-#### Di 11/30 5:56
+#### Xin 11/30 19:49
+
+Maps part all figured out. Start working on stats. New maps upon request.  
+: )
+
+#### Di 11/30 17:56
 
 Created 'webpage' folder to store related files.
 
-Uploaded the work I've done so far. 
+Uploaded the work I've done so far.
 
-#### Di 11/30 5:56
+#### Di 11/30 17:56
 
-Refined the analysis on crime: DONE! 
+Refined the analysis on crime: DONE!
 
-First try: started regression analysis on different socioeconomic indicators and crime rate, completed two reg models and several graphs. 
+First try: started regression analysis on different socioeconomic indicators and crime rate, completed two reg models and several graphs.
 
-Highlight: further detailed & deeper analysis on the regression results is needed. 
+Highlight: further detailed & deeper analysis on the regression results is needed.
 
 #### Di 11/30 1:06
 
-Finished the analysis on crime, please see Crime_Only_Analysis and the related graphs. 
-Started the work with webpage. 
-Plan to start the regression tomorrow. 
+Finished the analysis on crime, please see Crime_Only_Analysis and the related graphs.
+Started the work with webpage.
+Plan to start the regression tomorrow.
 
 NOTE: Graph for total crime rate remains to be revised.
 
@@ -50,10 +55,10 @@ I will also start looking at geopandas right now.
 
 #### Di 11/28 01:24
 
-Started a detailed analysis on crime data (both total rate and type). 
-Plan to finish by tomorrow and start building the webpage. 
+Started a detailed analysis on crime data (both total rate and type).
+Plan to finish by tomorrow and start building the webpage.
 
-Solved a merging problem with crime_type_data. 
+Solved a merging problem with crime_type_data.
 
 #### Di 11/28 1:08
 
