@@ -1,57 +1,63 @@
-<style>
-* { font-family: 'Open Sans', sans-serif; }
-
-body {margin: 0% 10%;}
-
-ul.nav {
-  list-style-type: none;
-  margin: 0px;
-  padding: 0px;
-  overflow: auto;
-  background-color: ;
+* {
+  font-family: 'Open Sans', sans-serif;
 }
 
-ul.nav li { float: left; }
+body { margin: 0 10%; }
+
+h1 { color: darkred; }
+
+ul.nav {
+  margin: 0;
+  padding: 0;
+  background-color: darkred;
+}
+
+ul.nav li { display: inline; }
 
 ul.nav li a {
-  display: inline-block;
-  color: INDIANRED;
-  padding: 16px 20px;
+  color: white;
+  padding: 10px 20px;
   text-decoration: none;
-  font-size: 16px;
+  display: inline-block;
+}
+
+ul.nav li a:hover {
+  background-color: #555;
+  transition: 0s;
 }
 
 ul.nav li a.active {
-  color: INDIANRED;
+  color: darkred;
   background-color: #FFF;
   font-weight: bold;
 }
 
 ul.nav li:hover {
-  background-color: #F5DEB3;
-  transition: 0.5s;
+  background-color: #555;
+  transition: 0s;
 }
 
 img {
   border: 10px;
   border-style: solid;
-  border-color: INDIANRED;
+  border-color: darkred;
   margin: 0px 40px;
+  float: right;
 }
 
 table {
-  align: center;
-  border-width: 5px 0px;
+  border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: INDIANRED;
+  border-color: darkred;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
+  margin: 10px 30px;
 }
 
 th {
   color: white;
-  background-color: INDIANRED;
+  background-color: darkred;
 }
 
 th, td {
@@ -59,8 +65,10 @@ th, td {
   padding: 3px 15px;
 }
 
-h1 {
-  color: INDIANRED;
+td.trcell, td.facell, td.uicell {
+  font-weight: bold;
 }
 
-</style>
+td.trcell { color: green;   }
+td.facell { color: red;     }
+td.uicell { color: #ffc107; }
