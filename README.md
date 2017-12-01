@@ -1,6 +1,14 @@
 # So this is our final project's repo
 # ENJOY
 
+#### Di 11/30 5:56
+
+Refined the analysis on crime: DONE! 
+
+First try: started regression analysis on different socioeconomic indicators and crime rate, completed two reg models and several graphs. 
+
+Highlight: further detailed & deeper analysis on the regression results is needed. 
+
 #### Di 11/30 1:06
 
 Finished the analysis on crime, please see Crime_Only_Analysis and the related graphs. 
