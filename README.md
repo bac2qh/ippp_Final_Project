@@ -2,8 +2,10 @@
 # ENJOY
 # Important
 ## Crime_Rate now is renamed as No_Crime, plz change accordingly
-## plz put your output in the output folder.
-Surprisingly, that's why we have it at the first place
+
+#### Di 12/1 10:56
+
+Webpage updated. 
 
 #### Xin 12/1 3:27
 
