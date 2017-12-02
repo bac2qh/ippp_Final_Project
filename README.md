@@ -41,3 +41,5 @@ many of the relationships took some efforts to reveal.
 ### Please checkout the Jupyter Notebook Finalized versions in source_code for a project walk-through
 
 # More detailed information available via our website
+
+# THANK YOU!
