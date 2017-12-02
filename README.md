@@ -38,7 +38,7 @@ Functions and loops were used multiple times to accomplish the plotting.
 This was the most difficult part. We came in to this project assuming the results
 and correlations should be rather obvious and significant, but interestingly,
 many of the relationships took some efforts to reveal.
-### Please checkout the Jupyter Notebook Finalized versions in source_code for a project walk-through
+### Please checkout the Jupyter Notebook Finalized versions in source_code folder for a project walk-through
 
 # More detailed information available via our website
 
