@@ -1,6 +1,7 @@
 # SO THIS IS OUR FINAL PROJECT'S REPOSITORY, ENJOY!
 
 ### Project Website:https://bac2qh.github.io/ippp_Final_Project/webpage/project_intro.html
+### All the Plots and Maps under output folder
 
 ### Repo's layout
 
