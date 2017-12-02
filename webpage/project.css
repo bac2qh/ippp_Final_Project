@@ -41,18 +41,9 @@ img {
   border: 0px;
   border-style: solid;
   margin: 0px 20px;
-  float: none; 
+  float: none;
 }
 
-table {
-  border-width: 0px 0px 5px 0px;
-  border-style: solid;
-  border-color: darkred;
-  background: #eee;
-  padding: 0px;
-  border-spacing: 0px;
-  margin: 10px 30px;
-}
 
 th {
   color: white;
