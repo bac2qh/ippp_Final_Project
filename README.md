@@ -1,4 +1,6 @@
-# So this is our final project's repo, Enjoy!
+# So this is our Final Project's Repository, Enjoy!
+
+# Project Website: https://bac2qh.github.io/ippp_Final_Project/webpage/project_intro.html
 
 ### Repo's layout
 
@@ -20,5 +22,22 @@ data but finally managed to use the portal' API. Saved us tons of time and makes
 it easier for others to run our code.
 
 #### Processing data
-We used merge and join in pandas multiple times throughout the whole project.
-Mask was also a very important part of data processing.
+We used pandas' tools many times throughout the whole project, including
+Join and Merge,
+Then groupby to aggregate data, and lastly
+loc function to mask data or direct apply mask.
+
+#### Plotting data
+This was the most intensive part. We have a large volume of data, which
+contains 30 types of crimes and 7 types of socioeconomic status.  
+We selected 7 major types of crimes and all the socioeconomic status to find their
+one to one or one to many relationships.
+Functions and loops were used multiple times to accomplish the plotting.
+
+#### Analyzing data
+This was the most difficult part. We came in to this project assuming the results
+and correlations should be rather obvious and significant, but interestingly,
+many of the relationships took some efforts to reveal.
+### Please checkout the Jupyter Notebook Finalized versions in source_code for a project walk-through
+
+# More detailed information available via our website
