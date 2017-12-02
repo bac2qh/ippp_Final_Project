@@ -38,11 +38,10 @@ ul.nav li:hover {
 }
 
 img {
-  border: 10px;
+  border: 0px;
   border-style: solid;
-  border-color: darkred;
-  margin: 0px 40px;
-  float: right;
+  margin: 0px 20px;
+  float: none; 
 }
 
 table {
