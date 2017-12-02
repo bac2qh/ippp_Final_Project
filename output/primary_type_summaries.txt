@@ -1,0 +1,198 @@
+HOMICIDE
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.386
+Model:                            OLS   Adj. R-squared:                  0.331
+Method:                 Least Squares   F-statistic:                     7.113
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):           6.58e-06
+Time:                        18:22:33   Log-Likelihood:                -235.70
+No. Observations:                  75   AIC:                             485.4
+Df Residuals:                      68   BIC:                             501.6
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     25.6777      4.606      5.575      0.000      16.486      34.869
+Crowd          2.9963      1.685      1.778      0.080      -0.367       6.359
+Poverty        1.0706      1.825      0.587      0.559      -2.570       4.712
+Unemp          7.8629      2.757      2.852      0.006       2.362      13.364
+Edu           -2.4730      2.265     -1.092      0.279      -6.992       2.046
+Age           -3.8019      3.790     -1.003      0.319     -11.364       3.760
+Income     -7.178e-06      0.000     -0.057      0.955      -0.000       0.000
+==============================================================================
+Omnibus:                       17.777   Durbin-Watson:                   1.453
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               27.481
+Skew:                           0.921   Prob(JB):                     1.08e-06
+Kurtosis:                       5.324   Cond. No.                     2.29e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.29e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+WEAPONS VIOLATION
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.367
+Model:                            OLS   Adj. R-squared:                  0.313
+Method:                 Least Squares   F-statistic:                     6.778
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):           1.08e-05
+Time:                        18:22:33   Log-Likelihood:                -404.65
+No. Observations:                  77   AIC:                             823.3
+Df Residuals:                      70   BIC:                             839.7
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    194.2853     37.892      5.127      0.000     118.713     269.858
+Crowd         16.6359     13.821      1.204      0.233     -10.929      44.200
+Poverty        0.6826     14.070      0.049      0.961     -27.380      28.745
+Unemp         71.0904     22.626      3.142      0.002      25.965     116.216
+Edu          -12.8435     18.145     -0.708      0.481     -49.032      23.345
+Age          -38.5654     31.225     -1.235      0.221    -100.842      23.711
+Income     -8.796e-05      0.001     -0.086      0.932      -0.002       0.002
+==============================================================================
+Omnibus:                       15.998   Durbin-Watson:                   1.525
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               20.688
+Skew:                           0.922   Prob(JB):                     3.22e-05
+Kurtosis:                       4.746   Cond. No.                     2.32e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.32e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+THEFT
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.607
+Model:                            OLS   Adj. R-squared:                  0.573
+Method:                 Least Squares   F-statistic:                     18.00
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):           1.65e-12
+Time:                        18:22:33   Log-Likelihood:                -604.20
+No. Observations:                  77   AIC:                             1222.
+Df Residuals:                      70   BIC:                             1239.
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   2327.2551    505.866      4.601      0.000    1318.338    3336.172
+Crowd        558.5584    184.510      3.027      0.003     190.564     926.553
+Poverty      115.8851    187.841      0.617      0.539    -258.751     490.521
+Unemp        997.8869    302.061      3.304      0.002     395.446    1600.328
+Edu         -201.6367    242.239     -0.832      0.408    -684.767     281.494
+Age        -1289.8805    416.862     -3.094      0.003   -2121.286    -458.475
+Income         0.0551      0.014      4.042      0.000       0.028       0.082
+==============================================================================
+Omnibus:                       10.340   Durbin-Watson:                   1.430
+Prob(Omnibus):                  0.006   Jarque-Bera (JB):               10.750
+Skew:                           0.729   Prob(JB):                      0.00463
+Kurtosis:                       4.107   Cond. No.                     2.32e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.32e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+KIDNAPPING
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.153
+Model:                            OLS   Adj. R-squared:                  0.079
+Method:                 Least Squares   F-statistic:                     2.072
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):             0.0677
+Time:                        18:22:33   Log-Likelihood:                -183.08
+No. Observations:                  76   AIC:                             380.2
+Df Residuals:                      69   BIC:                             396.5
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      9.3261      2.205      4.230      0.000       4.928      13.724
+Crowd          0.9503      0.809      1.174      0.244      -0.665       2.565
+Poverty       -0.9642      0.818     -1.179      0.242      -2.596       0.667
+Unemp          2.9358      1.315      2.233      0.029       0.313       5.559
+Edu           -0.5309      1.076     -0.494      0.623      -2.676       1.615
+Age           -2.2427      1.850     -1.212      0.230      -5.933       1.448
+Income     -2.254e-05   6.04e-05     -0.373      0.710      -0.000    9.79e-05
+==============================================================================
+Omnibus:                       35.844   Durbin-Watson:                   1.574
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              106.012
+Skew:                           1.472   Prob(JB):                     9.55e-24
+Kurtosis:                       7.981   Cond. No.                     2.31e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.31e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+NARCOTICS
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.238
+Model:                            OLS   Adj. R-squared:                  0.173
+Method:                 Least Squares   F-statistic:                     3.643
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):            0.00333
+Time:                        18:22:33   Log-Likelihood:                -614.74
+No. Observations:                  77   AIC:                             1243.
+Df Residuals:                      70   BIC:                             1260.
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   2436.2899    580.137      4.200      0.000    1279.242    3593.338
+Crowd        427.0077    211.600      2.018      0.047       4.984     849.031
+Poverty      129.4372    215.420      0.601      0.550    -300.204     559.078
+Unemp        597.5074    346.410      1.725      0.089     -93.385    1288.400
+Edu         -414.2884    277.805     -1.491      0.140    -968.353     139.776
+Age         -312.4717    478.066     -0.654      0.516   -1265.945     641.001
+Income        -0.0028      0.016     -0.177      0.860      -0.034       0.028
+==============================================================================
+Omnibus:                      101.725   Durbin-Watson:                   1.603
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2088.723
+Skew:                           4.057   Prob(JB):                         0.00
+Kurtosis:                      27.190   Cond. No.                     2.32e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.32e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+ROBBERY
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.293
+Model:                            OLS   Adj. R-squared:                  0.233
+Method:                 Least Squares   F-statistic:                     4.844
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):           0.000345
+Time:                        18:22:33   Log-Likelihood:                -502.06
+No. Observations:                  77   AIC:                             1018.
+Df Residuals:                      70   BIC:                             1035.
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    633.4740    134.275      4.718      0.000     365.670     901.278
+Crowd         90.6394     48.976      1.851      0.068      -7.040     188.319
+Poverty       30.3048     49.860      0.608      0.545     -69.137     129.747
+Unemp        207.7933     80.178      2.592      0.012      47.883     367.703
+Edu         -102.6938     64.299     -1.597      0.115    -230.934      25.547
+Age         -193.7898    110.650     -1.751      0.084    -414.475      26.896
+Income     -4.035e-05      0.004     -0.011      0.991      -0.007       0.007
+==============================================================================
+Omnibus:                       44.806   Durbin-Watson:                   1.346
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              171.909
+Skew:                           1.759   Prob(JB):                     4.68e-38
+Kurtosis:                       9.419   Cond. No.                     2.32e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.32e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
