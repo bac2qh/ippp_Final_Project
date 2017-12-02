@@ -5,7 +5,7 @@ Dep. Variable:                  Crime   R-squared:                       0.386
 Model:                            OLS   Adj. R-squared:                  0.331
 Method:                 Least Squares   F-statistic:                     7.113
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):           6.58e-06
-Time:                        18:22:33   Log-Likelihood:                -235.70
+Time:                        20:55:36   Log-Likelihood:                -235.70
 No. Observations:                  75   AIC:                             485.4
 Df Residuals:                      68   BIC:                             501.6
 Df Model:                           6
@@ -31,6 +31,9 @@ Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 2.29e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+
+
 WEAPONS VIOLATION
                             OLS Regression Results
 ==============================================================================
@@ -38,7 +41,7 @@ Dep. Variable:                  Crime   R-squared:                       0.367
 Model:                            OLS   Adj. R-squared:                  0.313
 Method:                 Least Squares   F-statistic:                     6.778
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):           1.08e-05
-Time:                        18:22:33   Log-Likelihood:                -404.65
+Time:                        20:55:36   Log-Likelihood:                -404.65
 No. Observations:                  77   AIC:                             823.3
 Df Residuals:                      70   BIC:                             839.7
 Df Model:                           6
@@ -64,6 +67,9 @@ Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 2.32e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+
+
 THEFT
                             OLS Regression Results
 ==============================================================================
@@ -71,7 +77,7 @@ Dep. Variable:                  Crime   R-squared:                       0.607
 Model:                            OLS   Adj. R-squared:                  0.573
 Method:                 Least Squares   F-statistic:                     18.00
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):           1.65e-12
-Time:                        18:22:33   Log-Likelihood:                -604.20
+Time:                        20:55:36   Log-Likelihood:                -604.20
 No. Observations:                  77   AIC:                             1222.
 Df Residuals:                      70   BIC:                             1239.
 Df Model:                           6
@@ -97,6 +103,9 @@ Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 2.32e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+
+
 KIDNAPPING
                             OLS Regression Results
 ==============================================================================
@@ -104,7 +113,7 @@ Dep. Variable:                  Crime   R-squared:                       0.153
 Model:                            OLS   Adj. R-squared:                  0.079
 Method:                 Least Squares   F-statistic:                     2.072
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):             0.0677
-Time:                        18:22:33   Log-Likelihood:                -183.08
+Time:                        20:55:36   Log-Likelihood:                -183.08
 No. Observations:                  76   AIC:                             380.2
 Df Residuals:                      69   BIC:                             396.5
 Df Model:                           6
@@ -130,6 +139,9 @@ Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 2.31e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+
+
 NARCOTICS
                             OLS Regression Results
 ==============================================================================
@@ -137,7 +149,7 @@ Dep. Variable:                  Crime   R-squared:                       0.238
 Model:                            OLS   Adj. R-squared:                  0.173
 Method:                 Least Squares   F-statistic:                     3.643
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):            0.00333
-Time:                        18:22:33   Log-Likelihood:                -614.74
+Time:                        20:55:36   Log-Likelihood:                -614.74
 No. Observations:                  77   AIC:                             1243.
 Df Residuals:                      70   BIC:                             1260.
 Df Model:                           6
@@ -163,6 +175,9 @@ Warnings:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
 [2] The condition number is large, 2.32e+05. This might indicate that there are
 strong multicollinearity or other numerical problems.
+
+
+
 ROBBERY
                             OLS Regression Results
 ==============================================================================
@@ -170,7 +185,7 @@ Dep. Variable:                  Crime   R-squared:                       0.293
 Model:                            OLS   Adj. R-squared:                  0.233
 Method:                 Least Squares   F-statistic:                     4.844
 Date:                Fri, 01 Dec 2017   Prob (F-statistic):           0.000345
-Time:                        18:22:33   Log-Likelihood:                -502.06
+Time:                        20:55:36   Log-Likelihood:                -502.06
 No. Observations:                  77   AIC:                             1018.
 Df Residuals:                      70   BIC:                             1035.
 Df Model:                           6
@@ -190,6 +205,42 @@ Omnibus:                       44.806   Durbin-Watson:                   1.346
 Prob(Omnibus):                  0.000   Jarque-Bera (JB):              171.909
 Skew:                           1.759   Prob(JB):                     4.68e-38
 Kurtosis:                       9.419   Cond. No.                     2.32e+05
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.32e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+
+
+SEX OFFENSE
+                            OLS Regression Results
+==============================================================================
+Dep. Variable:                  Crime   R-squared:                       0.346
+Model:                            OLS   Adj. R-squared:                  0.290
+Method:                 Least Squares   F-statistic:                     6.183
+Date:                Fri, 01 Dec 2017   Prob (F-statistic):           3.05e-05
+Time:                        20:55:36   Log-Likelihood:                -279.16
+No. Observations:                  77   AIC:                             572.3
+Df Residuals:                      70   BIC:                             588.7
+Df Model:                           6
+Covariance Type:            nonrobust
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     36.6886      7.427      4.940      0.000      21.877      51.500
+Crowd          6.0802      2.709      2.245      0.028       0.678      11.483
+Poverty       -0.5919      2.758     -0.215      0.831      -6.092       4.908
+Unemp         10.4596      4.435      2.359      0.021       1.615      19.304
+Edu           -0.8980      3.556     -0.253      0.801      -7.991       6.195
+Age          -21.4985      6.120     -3.513      0.001     -33.704      -9.293
+Income      9.371e-05      0.000      0.469      0.641      -0.000       0.000
+==============================================================================
+Omnibus:                       19.275   Durbin-Watson:                   1.574
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               28.888
+Skew:                           1.009   Prob(JB):                     5.33e-07
+Kurtosis:                       5.221   Cond. No.                     2.32e+05
 ==============================================================================
 
 Warnings:
