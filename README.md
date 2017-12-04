@@ -7,7 +7,7 @@
 
 There are four important folders in this repo. data folder stores
 all supporting data; output folder stores all outputs, including maps and plots;
-source_code folder is the Jupyter Notebook codes showing both our final results
+code folder is the Jupyter Notebook codes showing both our final results
 and the process of our work; finally webpage folder stores our html files.
 
 ### Reserch Topic
@@ -39,7 +39,7 @@ Functions and loops were used multiple times to accomplish the plotting.
 This was the most difficult part. We came in to this project assuming the results
 and correlations should be rather obvious and significant, but interestingly,
 many of the relationships took some efforts to reveal.
-### Please checkout the Jupyter Notebook Finalized versions in source_code folder for a project walk-through
+### Please checkout the Jupyter Notebook Finalized versions in code folder for a project walk-through
 
 # More detailed information available via our website
 
